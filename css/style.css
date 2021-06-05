@@ -1,8 +1,16 @@
+
+div {	
+	margin: 20px auto;
+	max-width: 500px;
+	text-align: center;
+}
+
+
 h2 {
 	color: red;
 }
 
 p {
-	color: yellow;
+	color: gray;
 }
 
